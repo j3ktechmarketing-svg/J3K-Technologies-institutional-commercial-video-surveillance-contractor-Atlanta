@@ -102,8 +102,6 @@ J3K Technologies aligns each project with these expectations, ensuring surveilla
 
 J3K Technologies supports a wide range of institutional and commercial environments including corporate offices, campuses, mixed-use developments, administrative facilities, and large commercial properties. Our surveillance systems are designed to support day-to-day operations while providing reliable documentation when incidents occur.
 
-Additional insights into institutional and commercial surveillance planning can be explored at < > and < >.
-
 ---
 
 ## Long-Term Value for Institutions and Commercial Organizations
